@@ -50,7 +50,7 @@ async def start(bot, update):
                     ),
                     InlineKeyboardButton("Dev Channel 👨🏻‍💻", url="https://telegram.me/PS_MOVIES11"),
                 ],
-                [InlineKeyboardButton("LazyDeveloper 👨‍⚖️", url="https://t.me/PS_MOVIES11")],
+                [InlineKeyboardButton("PS Developer 👨‍⚖️", url="https://t.me/PS_MOVIES11")],
             ]
         ),
         reply_to_message_id=update.message_id
